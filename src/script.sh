@@ -9,3 +9,10 @@ then1
 else
     echo "missed"
 fi
+
+if [ "a" = "a" ];
+then1
+    echo "hit"
+else
+    echo "missed"
+fi
